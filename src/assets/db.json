@@ -1,0 +1,21 @@
+{
+
+    "posts":[
+        {"id":1,"title":"abc","author":"ertetr"},
+        {"id":2,"title":"eee","author":"ghjjhkj"},
+        {"id":3,"title":"fff","author":"vbnbnb"}
+    ],
+    "comments":[
+        {
+            "id":1,"body":"fgff","postId":1
+        },
+        {
+            "id":2,"body":"vbvnbv","postId":1
+        },
+        {
+            "id":3,"body":"sdsdf","postId":1
+        }
+
+    ],
+    "profile":{"name":"rtwqrt"}
+}
